@@ -76,3 +76,24 @@ button:active span {
     filter: brightness(80%);
     filter: opacity(80%);
 }
+
+.text-container {
+    color: #f4511e;
+    margin-top: 20px;
+    font-size: 20px;
+    fo
+/*    position: relative;*/
+}
+
+#singleClick {
+/*    opacity: 1;*/
+/*    position: absolute;*/
+}
+
+.active {
+    opacity: 1;
+}
+
+.hide {
+    opacity: 0;
+}
