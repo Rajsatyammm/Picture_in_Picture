@@ -30,6 +30,7 @@ video {
 .button {
     display: inline-block;
     border-radius: 6px;
+/*    position: relative;*/
     background-color: #f4511e;
     border: none;
     color: #FFFFFF;
@@ -81,8 +82,7 @@ button:active span {
     color: #f4511e;
     margin-top: 20px;
     font-size: 20px;
-    fo
-/*    position: relative;*/
+/*    position: absolute;*/
 }
 
 #singleClick {
